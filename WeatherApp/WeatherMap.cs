@@ -6,7 +6,7 @@ using System.Text;
 
 namespace WeatherApp
 {
-   public class WeatherMap
+   public static class WeatherMap
     {
         public static double GetTemp(string apiCall)
         {
